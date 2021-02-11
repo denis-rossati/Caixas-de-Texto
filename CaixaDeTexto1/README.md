@@ -1,0 +1,1 @@
+Aqui tem minha primeira caixa de texto em CSS. Foi estranho e construtivo de fazer pois aprendi alguns elementos novos além do que a trybe vem ensinado. Aprendi o significado de alguns styles como padding, aprimorei meu conceito de bordes e margin.
